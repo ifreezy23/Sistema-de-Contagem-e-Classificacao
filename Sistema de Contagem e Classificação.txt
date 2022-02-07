@@ -1,0 +1,11 @@
+1 - Percorrer do 0 até o nº de alunos. (for) - OK
+
+2 - Verificar se o numero do aluno é par. - OK
+        Verdadeiro: Escrever na tela o numero é par
+
+3 - Verficar se o numero do aluno é impar: - OK
+        Verdadeiro: Escrever na tela o numero é impar
+
+4 - Verificar o numero é 0:
+        Verdadeiro: Escrever na tela ZERO - OK
+
